@@ -1,5 +1,5 @@
 I'm a computer science student named Emilia and I code stuff.
-I mainly program in Python and im currently trying to learn C++.
+I mainly program in Python and im currently trying to learn C++ and Julia.
 
 Languages I know: Python, Javascript, Html, Bash, Batch, Lua, Java, C, C++ and C#. (Still studying all C variants and technically bash and batch are scripting languages)
 Languages I'm planning to study: Rust, PHP.
