@@ -1,9 +1,3 @@
-I'm a computer science student named Emilia and I code stuff.
-I mainly program in Python and im currently trying to learn Kotlin.
+My name is Emília and i havent really coded anything in the last few months so im kind of rusty... the perfect segway to the announcement that im trying to learn more rust
 
-Languages I know: Python, Kotlin,Rust, Javascript, Html, Bash, Batch, Lua, Julia, Java, C, C++ and C#. (Technically bash and batch are scripting languages)
-Languages I'm planning to study: SQL.
-<!---
-Mily-the-coder/Mily-the-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages i know: mostly Python but i also know a bit about a few other languages (i forgot how to code on my own on most of them)
